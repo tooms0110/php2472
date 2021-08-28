@@ -1,0 +1,10 @@
+#tableArticle.table-hover > tbody > tr:hover
+{
+    background-color: rgb(185, 240, 206) !important;
+}
+
+#tableStock.table-hover > tbody > tr:hover
+{
+    background-color: rgb(185, 232, 240) !important;
+    
+}
